@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  Table.cpp
+c:\users\hernandez-tamu\desktop\csce315\csce-315-database-project\database\database\table.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\hernandez-tamu\desktop\csce315\csce-315-database-project\database\database\table.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\hernandez-tamu\desktop\csce315\csce-315-database-project\database\database\table.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\hernandez-tamu\desktop\csce315\csce-315-database-project\database\database\table.cpp(116): warning C4018: '<': signed/unsigned mismatch
+  Record.cpp
+  Query.cpp
+  Database.cpp
+  Generating Code...
+  dllmain.cpp
+     Creating library C:\Users\Hernandez-TAMU\Desktop\CSCE315\CSCE-315-Database-Project\Database\Debug\Database.lib and object C:\Users\Hernandez-TAMU\Desktop\CSCE315\CSCE-315-Database-Project\Database\Debug\Database.exp
+  Database.vcxproj -> C:\Users\Hernandez-TAMU\Desktop\CSCE315\CSCE-315-Database-Project\Database\Debug\Database.dll
+  Database.vcxproj -> C:\Users\Hernandez-TAMU\Desktop\CSCE315\CSCE-315-Database-Project\Database\Debug\Database.pdb (Full PDB)
